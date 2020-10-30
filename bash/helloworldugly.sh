@@ -1,6 +1,7 @@
 #!/bin/bash
 # My third script - helloworldugly.sh
 # This script displays the string "Hello World!"
+#
 
 # this is a silly way of creating the output text by starting with something
 echo -n "helb wold" |
