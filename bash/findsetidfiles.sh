@@ -8,6 +8,7 @@
 
 # Task 2 for the exercise is to modify it to also display the 10 largest files in the system, sorted by their sizes
 # The listing should include the file name, owner, and size in MBytes and be displayed after the listings of setuid and setgid files
+# Finished
 
 echo "Setuid files:"
 echo "============="
